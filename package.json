@@ -1,0 +1,19 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "my first express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiwabzu/nodeExpress.git"
+  },
+  "author": "wes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiwabzu/nodeExpress/issues"
+  },
+  "homepage": "https://github.com/wiwabzu/nodeExpress#readme"
+}
